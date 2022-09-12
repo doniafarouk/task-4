@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Board</string>
+    <string name="first_team">Team A</string>
+    <string name="second_team">Team B</string>
+    <string name="points3">+3 points</string>
+    <string name="points2">+2 points</string>
+    <string name="points1">Free Throw</string>
+    <string name="reset">Reset</string>
+    <string name="zero">0</string>
+</resources>
